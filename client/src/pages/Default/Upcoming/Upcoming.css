@@ -1,0 +1,10 @@
+.history-table {
+  margin-top: 60px;
+  width: 100%;
+  text-align: left;
+}
+
+.history-table thead tr th {
+  font-size: 17px;
+  padding-bottom: 15px;
+}

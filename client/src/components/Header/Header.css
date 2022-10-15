@@ -1,0 +1,18 @@
+.header-inner {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+img {
+  margin-right: 15px;
+  width: auto;
+}
+
+nav {
+  margin-left: auto;
+}
+
+.header-nav-link-warpper {
+  margin-left: 15px;
+}

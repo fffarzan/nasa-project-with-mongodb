@@ -1,0 +1,53 @@
+{
+  "planets": [
+    {
+      "koi_disposition": "",
+      "koi_insol": "",
+      "koi_prad": "",
+      "kepler_name": "KP_1"
+    },
+    {
+      "koi_disposition": "",
+      "koi_insol": "",
+      "koi_prad": "",
+      "kepler_name": "KP_2"
+    },
+    {
+      "koi_disposition": "",
+      "koi_insol": "",
+      "koi_prad": "",
+      "kepler_name": "KP_3"
+    }
+  ],
+  "launches": [
+    {
+      "flightNumber": 100,
+      "mission": "Kepler Exploration X",
+      "rocket": "Explorer IS1",
+      "launchDate": "27-12-2030",
+      "target": "Kepler-442 b"
+    },
+    {
+      "flightNumber": 101,
+      "mission": "Kepler Exploration Y",
+      "rocket": "Explorer IS2",
+      "launchDate": "28-12-2030",
+      "target": "Kepler-442 b"
+    },
+    {
+      "id": 102,
+      "launchDate": "2022-06-23T00:00:00.000Z",
+      "mission": "",
+      "rocket": "Explorer IS1",
+      "target": "KP_1"
+    },
+    {
+      "flightNumber": 102,
+      "launchDate": "2022-06-23T00:00:00.000Z",
+      "mission": "cad",
+      "rocket": "Explorer IS1",
+      "target": "KP_1",
+      "id": 103
+    }
+  ]
+}

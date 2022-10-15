@@ -1,0 +1,11 @@
+.launch {
+}
+
+.launch-form {
+  margin-top: 60px;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: auto auto;
+  grid-template-columns: auto auto;
+  grid-gap: 10px 20px;
+}
